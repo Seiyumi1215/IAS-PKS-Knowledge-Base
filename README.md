@@ -4,7 +4,7 @@ Welcome to my **Personal Knowledge System (PKS)** for CIT312/ITL312: Information
 
 ---
 
-## 🗂️ Knowledge Base Navigation
+## Knowledge Base Navigation
 
 ### 01. System & Environment Setup
 * [Linux Environment & Bash Scripting](01_System_and_Environment_Setup/Linux_Environment_and_Bash.md) — Fundamental Linux CLI usage, file permissions, shell piping (`grep`/`awk`), and scripting.
@@ -23,14 +23,14 @@ Welcome to my **Personal Knowledge System (PKS)** for CIT312/ITL312: Information
 
 ---
 
-## 🛠️ Key Hands-On Environments
+## Key Hands-On Environments
 - **DVWA (Damn Vulnerable Web Application):** Web vulnerability testing ground.
 - **Mailvelope / OpenPGP:** Browser-based message encryption and signing.
 - **Virtualization:** VirtualBox / VMware host-isolated environments.
 
 ---
 
-## 📝 Core Key Takeaways
+## Core Key Takeaways
 1. **Input Validation is Paramount:** Unchecked input is the leading root cause of high-severity vulnerabilities like SQLi and OS Command Injection.
 2. **Key Protection Matters:** Asymmetric encryption protects communication privacy, provided private keys remain confidential.
 3. **Isolated Environments:** Always perform penetration testing and vulnerability analysis within isolated virtual environments.
